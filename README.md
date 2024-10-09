@@ -1,4 +1,4 @@
-FaceFusion for Paperspace Gradient.
+FaceFusion for Paperspace Gradient notebook.
 
 Create a new Pytorch project and upload the .ipynb notebook file.
 
